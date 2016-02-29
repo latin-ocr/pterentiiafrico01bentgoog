@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pterentiiafrico01bentgoog_0235.png"; bbox 0 0 2034 3192; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 51 931 1757 1024">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 51 931 1757 1024">
+     <span class='ocr_line' id='line_1_1' title="bbox 51 931 1757 1024; baseline 0.002 -8"><span class='ocrx_word' id='word_1_1' title='bbox 51 931 720 1019; x_wconf 86' lang='lat' dir='ltr'><strong>HECYRA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 810 933 1572 1024; x_wconf 88' lang='lat' dir='ltr'><strong>TERENTI.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1750 1013 1757 1020; x_wconf 86' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 616 1389 1031 1417">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 616 1389 1031 1417">
+     <span class='ocr_line' id='line_1_2' title="bbox 616 1389 1031 1417; baseline 0.002 -1"><span class='ocrx_word' id='word_1_4' title='bbox 616 1389 1031 1417; x_wconf 70' lang='grc' dir='ltr'><strong>-------ι-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
